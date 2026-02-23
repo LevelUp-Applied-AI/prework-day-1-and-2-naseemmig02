@@ -28,3 +28,15 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+I am Naseem Migdadi, an AI and Robotics graduate. This repository contains my AI.SPIRE pre-work assignments and demonstrates my Git workflow and setup.
+
+## Setup
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-naseemmig02.git
+cd prework-day-1-and-2-naseemmig02
