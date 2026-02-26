@@ -22,28 +22,21 @@
 
 ## Evidence Checklist
 
-- [ <img width="786" height="358" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/f67c86f2-fc39-4550-ae85-1855b52c5a4e" />
-<img width="786" height="358" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/f67c86f2-fc39-4550-ae85-1855b52c5a4e" />
+- [ <img width="786" height="358" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/eecdcc72-5d2b-4784-8dc6-d2c5c8bf432f" />
 ] Screenshot: OS version
-- [<img width="786" height="358" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/75db52cf-3b2e-4d36-8154-f3ae548965fb" />
-<img width="786" height="358" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/75db52cf-3b2e-4d36-8154-f3ae548965fb" />
- ] Screenshot: RAM and CPU details
-- [ <img width="355" height="136" alt="image" src="https://github.com/user-attachments/assets/d87685f6-633d-4eec-b5f5-aeb91c7fae8c" />
-<img width="355" height="136" alt="image" src="https://github.com/user-attachments/assets/d87685f6-633d-4eec-b5f5-aeb91c7fae8c" />
+- [ <img width="786" height="358" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/90fdc856-b967-40ab-8ebb-23d14ddea7d3" />
+] Screenshot: RAM and CPU details
+- [ <img width="355" height="136" alt="Screenshot 2026-02-23 215424" src="https://github.com/user-attachments/assets/ae13d73f-2b80-4455-9748-4ce4b9f0eedf" />
 ] Screenshot: Free disk space
-- [ <img width="618" height="412" alt="Screenshot 2026-02-23 215228" src="https://github.com/user-attachments/assets/f4a03b6c-ea2a-4b5d-8d30-bea02a08dd30" />
-<img width="618" height="412" alt="Screenshot 2026-02-23 215228" src="https://github.com/user-attachments/assets/f4a03b6c-ea2a-4b5d-8d30-bea02a08dd30" />
+- [ <img width="618" height="412" alt="Screenshot 2026-02-23 215228" src="https://github.com/user-attachments/assets/631623da-aca9-40d7-a167-b729d565623d" />
 ] Screenshot: Internet speed test result
-- [<img width="932" height="93" alt="Screenshot 2026-02-23 112656" src="https://github.com/user-attachments/assets/f739090b-b654-41f2-817f-5437d061b631" />
-<img width="932" height="93" alt="Screenshot 2026-02-23 112656" src="https://github.com/user-attachments/assets/f739090b-b654-41f2-817f-5437d061b631" />
- ] Screenshot: Admin rights confirmed
+- [ <img width="932" height="93" alt="Screenshot 2026-02-23 112656" src="https://github.com/user-attachments/assets/f46cd725-86f1-4bf2-8810-64ad4b592e28" />
+] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ <img width="345" height="97" alt="image" src="https://github.com/user-attachments/assets/4c8ea1b2-d791-4f5e-a556-26991dc4512c" />
-<img width="345" height="97" alt="image" src="https://github.com/user-attachments/assets/4c8ea1b2-d791-4f5e-a556-26991dc4512c" />
-] Screenshot: `wsl -l -v` output showing WSL 2
-- [ <img width="337" height="87" alt="image" src="https://github.com/user-attachments/assets/c963af90-7219-4ee7-b2a9-0f284e384fae" />
-<img width="337" height="87" alt="image" src="https://github.com/user-attachments/assets/c963af90-7219-4ee7-b2a9-0f284e384fae" />
+- [<img width="345" height="97" alt="Screenshot 2026-02-23 215456" src="https://github.com/user-attachments/assets/099aa3d3-75e2-4ccb-a790-408a124aa1f2" />
+ ] Screenshot: `wsl -l -v` output showing WSL 2
+- [ <img width="337" height="87" alt="Screenshot 2026-02-23 215520" src="https://github.com/user-attachments/assets/32c64d50-25b8-4709-9b17-a04137d25897" />
 ] Screenshot: `wsl --status` output
 
 ---
