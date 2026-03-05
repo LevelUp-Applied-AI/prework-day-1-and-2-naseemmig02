@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+ # Device Check — [Naseem Migdadi]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-23]
+**GitHub username:** [naseemmig02]
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
+| Operating System | (Windows 11 22H2|
 | OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| RAM | (16 GB) |
+| CPU Model | (Intel Core i7-12700H|
+| CPU Cores |10 |
+| Free Disk Space | (300 GB free) |
+| Internet Speed (Download) | (from speedtest.net — 18 Mbps) |
 
 ---
 
@@ -37,7 +37,7 @@
 ## Admin Rights Confirmation
 
 **Result:** [Paste command output, or write "Confirmed via System Settings"]
-
+Confirmed via System Settings
 ---
 
 ## Device Notes
